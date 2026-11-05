@@ -1,0 +1,17 @@
+# tools / environments
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.gstack/
+
+# third-party clones (fetch with the commands in README.md)
+upstream/
+
+# slicer intermediates: the ready-to-print 3MFs live in */3mf/
+print/**/plates/
+*.gcode
+
+# cached check data (regenerate with cad/microduck/checks/gen_sweeps.py)
+cad/microduck/checks/*.npy
+cad/microduck/checks/*.log
