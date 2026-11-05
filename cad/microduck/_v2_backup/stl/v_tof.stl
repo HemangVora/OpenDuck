@@ -1,0 +1,198 @@
+solid OpenSCAD_Model
+  facet normal 0 -1 0
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 104.8 -6.5 174
+      vertex 104.8 -6.5 187
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 104.8 6.5 174
+      vertex 104.8 -6.5 174
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 -6.5 174
+      vertex 104.8 -3.2 179
+      vertex 104.8 -3.2 182
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 -6.5 174
+      vertex 104.8 6.5 174
+      vertex 104.8 -3.2 179
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 104.8 -6.5 187
+      vertex 103.8 -6.5 187
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 103.8 -6.5 187
+      vertex 103.8 6.5 187
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 103.8 -6.5 187
+      vertex 104.8 -6.5 187
+      vertex 103.8 6.5 187
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 -6.5 174
+      vertex 104.8 -3.2 182
+      vertex 104.8 -6.5 187
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 -6.5 187
+      vertex 104.8 -3.2 182
+      vertex 104.8 3.1999999999999993 182
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 103.8 6.5 174
+      vertex 104.8 6.5 174
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 103.8 -6.5 174
+      vertex 103.8 6.5 187
+      vertex 103.8 6.5 174
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 103.8 6.5 174
+      vertex 103.8 6.5 187
+      vertex 104.8 6.5 174
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 6.5 174
+      vertex 104.8 3.1999999999999993 179
+      vertex 104.8 -3.2 179
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 6.5 174
+      vertex 104.8 6.5 187
+      vertex 104.8 3.1999999999999993 179
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 103.8 6.5 187
+      vertex 104.8 -6.5 187
+      vertex 104.8 6.5 187
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 103.8 6.5 187
+      vertex 104.8 6.5 187
+      vertex 104.8 6.5 174
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 -6.5 187
+      vertex 104.8 3.1999999999999993 182
+      vertex 104.8 6.5 187
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 104.8 6.5 187
+      vertex 104.8 3.1999999999999993 182
+      vertex 104.8 3.1999999999999993 179
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 106.55 -3.2 179
+      vertex 106.55 -3.2 182
+      vertex 104.8 -3.2 179
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 106.55 -3.2 179
+      vertex 104.8 -3.2 179
+      vertex 106.55 3.1999999999999993 179
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 106.55 -3.2 179
+      vertex 106.55 3.1999999999999993 179
+      vertex 106.55 -3.2 182
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 106.55 -3.2 182
+      vertex 104.8 -3.2 182
+      vertex 104.8 -3.2 179
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 106.55 -3.2 182
+      vertex 104.8 3.1999999999999993 182
+      vertex 104.8 -3.2 182
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 106.55 3.1999999999999993 179
+      vertex 104.8 -3.2 179
+      vertex 104.8 3.1999999999999993 179
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 106.55 3.1999999999999993 179
+      vertex 104.8 3.1999999999999993 179
+      vertex 104.8 3.1999999999999993 182
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 106.55 -3.2 182
+      vertex 106.55 3.1999999999999993 182
+      vertex 104.8 3.1999999999999993 182
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 106.55 3.1999999999999993 179
+      vertex 104.8 3.1999999999999993 182
+      vertex 106.55 3.1999999999999993 182
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 106.55 -3.2 182
+      vertex 106.55 3.1999999999999993 179
+      vertex 106.55 3.1999999999999993 182
+    endloop
+  endfacet
+endsolid OpenSCAD_Model
